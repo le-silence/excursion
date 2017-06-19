@@ -10,7 +10,7 @@ h1 {
   color: white;
 }
 
-#lien {
+.lien {
   color: aquamarine;
   font-size: 16px;
 }
@@ -26,6 +26,6 @@ p {
   color: gray;
 }
 
-#pied {
+.pied {
   text-align: right;
 }
